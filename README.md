@@ -25,8 +25,11 @@ MB🌕
 En este proyecto me enfoqué en construir la clonación de la interfaz de Google.
 Contiene las siguientes secciones:
 
-* **Header**: Sección que incolucra la foto de mi perfil, Iconos y un menú con hipervínculos 
+* **Header**: Sección que incolucra la foto de mi perfil, Iconos y un menú con hipervínculos. 
 
-* **Main**: Sección del contenedor para los elementos centrales de la página: Logo, botones
+* **Main**: Sección del contenedor para los elementos centrales de la página: Logo,  barra de búsqueda, iconos y botones.
 
-* **Footer**: Sección que incluye hipervínculos al final de la página
+* **Footer**: Sección que incluye hipervínculos al final de la página.
+
+## 3. Objetivo del proyecto
+Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
