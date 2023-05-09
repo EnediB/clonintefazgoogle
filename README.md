@@ -5,8 +5,8 @@ Proyecto de Clonación de Interfaz de Google con HTML5 y CSS3🦋
 
 ## ÍNDICE
 
-* [1. Intro](#)
-* [2. ¿Qué construí?](#)
+* [1. Intro](https://github.com/EnediB/clonintefazgoogle/blob/main/README.md#1intro)
+* [2. ¿Qué construí?](https://github.com/EnediB/clonintefazgoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del Proyecto](#)
 
 
